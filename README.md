@@ -1,5 +1,5 @@
-This repository contains the first project of The Odin Project, related to HTML.
+This repository contains the first project of <a href="https://www.theodinproject.com/lessons/foundations-recipes">The Odin Project</a>, related to **HTML**.
 
-Through the following project I have reviewed my notions of HTML and learned, above all, how to use Git, a tool that I had not used since I studied Web Application Development in 2019.
+Through the following project I have reviewed my notions of **_HTML_** and learned, above all, how to use **_Git_**, a tool that I had not used since I studied Web Application Development in 2019.
 
 I hope to continue this learning and create better projects to build my portfolio.
